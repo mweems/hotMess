@@ -16,3 +16,15 @@ body {
 .sidebar #name {
     color: #ff00bf;
 }
+
+.sharknado {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.sharknado #pic {
+    position: relative;
+    left: 50px;
+
+}
