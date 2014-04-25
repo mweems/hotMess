@@ -17,6 +17,7 @@ body {
     color: #ff00bf;
 }
 
+<<<<<<< HEAD
 .sharknado {
     margin-top: 40px;
     margin-left: 40px;
@@ -37,3 +38,8 @@ body {
 }
 
 
+=======
+#hi {
+    position: relative; left:510px;
+}
+>>>>>>> krystal's button
