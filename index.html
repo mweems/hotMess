@@ -40,12 +40,21 @@
         <p class="quote">
           Green is the new black! Don't print this page.
 
-          <button type="button" onclick="alert(say_hi())">Don't Click Me! </button>
+          <button onclick="alert(say_hi())">Don't Click Me! </button>
 
         </p>
       </div>
 
       <img  id="hi" src="images/cat.jpeg" alt="cat pic" >  
-    </p>         
+    </p>    
+
+      <form>
+        <input id="write_textbox" type="text" />
+      
+
+        <button onclick="textbox(document.getElementById('write_textbox').value)"> click me! </button>
+      </form>
+    <p>
+    </p>     
   </body>
 </html>
