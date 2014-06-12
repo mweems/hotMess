@@ -47,3 +47,21 @@ body {
     position: relative; left:510px;
 }
 krystal's button
+
+.as{
+    font-size: 18;
+    font-family: Helvetica;
+    border: 4px #000021 dotted;
+    margin: auto;
+}
+
+#aarons-list{
+    font-size: 14;
+    color: blue;
+    background-color: yellow;
+}
+
+#as-div{
+    margin-right: 800px;
+    margin-left: 200px;
+}
